@@ -1,4 +1,4 @@
-# MarketMind — Multi-Agent Stock Intelligence (educational project)
+# MarketMind — Multi-Agent Stock Intelligence
 
 **This is a research/educational tool, not investment advice.** No system —
 including this one — can reliably predict market movements. Every trade this
